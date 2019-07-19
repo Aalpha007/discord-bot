@@ -54,5 +54,5 @@ async def fuck(ctx, user:discord.Member):
     i=random.randint(0,len(fu))
     await ctx.send("{} gets fucked by {}".format(user.mention,fu[i]))
 
-bot.run("NTExMTc5MTUyMjQyNjM4ODQ5.XNigMw.YGsGNCOXD0Dx-sX7ZwQtDmIfyvE")
+bot.run("Your Auth-token")
 
