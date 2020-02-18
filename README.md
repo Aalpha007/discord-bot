@@ -1,4 +1,3 @@
-# not-for-all
+# Discord Bot
 
-  This is a discord bot made using the library discord.py
-I have used python for this bot.
+  This is a discord bot made using the library `discord.py`. This was made for playing around using `discord.py`
